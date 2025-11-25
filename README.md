@@ -4,7 +4,7 @@
 
 This repository contains a complete TensorFlow/TensorFlow Probability implementation of the **Deep Context-Dependent Choice Model (DeepHalo)** proposed by Zhang et al. (2025) in their paper "Deep Context-Dependent Choice Model" presented at the ICML Workshop on Models of Human Feedback for AI Alignment.
 
-The implementation is designed for compatibility with the [choice-learn](https://artefactory.github.io/choice-learn/) framework and addresses **JP Morgan MLCOE TSRL 2026 Internship Question 3, Part 1**.
+The implementation is designed for compatibility with the [choice-learn](https://artefactory.github.io/choice-learn/) framework.
 
 ## Key Features
 
